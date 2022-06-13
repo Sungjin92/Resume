@@ -4,7 +4,9 @@
 * 이름: 강성진
 * 소속: 소프트웨어융합대학
 * 전공: 콘텐츠IT
+* gitjub : [github]
 
+[github]:https://github.com/Sungjin92
 ### 관심분야
 
 * 게임 제작
